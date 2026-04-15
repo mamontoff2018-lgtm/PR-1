@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Результат работы]()
+![Результат работы](https://github.com/mamontoff2018-lgtm/laba_1/blob/master/Рисунок2.png)
 
 *Рисунок 2 — Код класса MainActivity и DrawView*
 
