@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Скриншот программы](Рисунок1.png)
+![Иллюстрация к проекту](https://github.com/mamontoff2018-lgtm/laba_1/edit/master/README.md)
 *Рисунок 1. *
 
 </div>
